@@ -1,0 +1,6 @@
+/// @description 
+
+if(!gui)
+{
+	Draw();
+}
