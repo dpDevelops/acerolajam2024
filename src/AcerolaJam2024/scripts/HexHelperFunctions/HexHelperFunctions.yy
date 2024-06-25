@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"HexHelperFunctions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HexHelperFunctions",
+  "parent":{
+    "name":"HexagonalGridSystem",
+    "path":"folders/HexagonalGridSystem.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"InitializeHeap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InitializeHeap",
+  "parent":{
+    "name":"HexagonalGridSystem",
+    "path":"folders/HexagonalGridSystem.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

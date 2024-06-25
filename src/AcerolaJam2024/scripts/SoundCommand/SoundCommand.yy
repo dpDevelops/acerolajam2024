@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"SoundCommand",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SoundCommand",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
