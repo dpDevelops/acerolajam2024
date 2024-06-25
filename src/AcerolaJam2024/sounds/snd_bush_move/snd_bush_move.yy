@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_bush_move",
+  "audioGroupId":{
+    "name":"SoundEffects",
+    "path":"audiogroups/SoundEffects",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.333333,
+  "name":"snd_bush_move",
+  "parent":{
+    "name":"Bush",
+    "path":"folders/Sounds/Entities/Bush.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_bush_move.wav",
+  "type":0,
+  "volume":1.0,
+}

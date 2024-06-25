@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_player_spawn",
+  "audioGroupId":{
+    "name":"SoundEffects",
+    "path":"audiogroups/SoundEffects",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.666667,
+  "name":"snd_player_spawn",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Sounds/Entities/Player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_player_spawn.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_gen_enemy_spawn",
+  "audioGroupId":{
+    "name":"SoundEffects",
+    "path":"audiogroups/SoundEffects",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.666667,
+  "name":"snd_gen_enemy_spawn",
+  "parent":{
+    "name":"Generic Enemy",
+    "path":"folders/Sounds/Entities/Generic Enemy.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_gen_enemy_spawn.wav",
+  "type":0,
+  "volume":1.0,
+}

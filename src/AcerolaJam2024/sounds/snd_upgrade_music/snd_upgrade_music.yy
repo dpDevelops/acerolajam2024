@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_upgrade_music",
+  "audioGroupId":{
+    "name":"GameMusic",
+    "path":"audiogroups/GameMusic",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":96.0,
+  "name":"snd_upgrade_music",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_upgrade_music.wav",
+  "type":0,
+  "volume":1.0,
+}

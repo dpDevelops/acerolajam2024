@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shWireHex",
+  "name":"shWireHex",
+  "parent":{
+    "name":"HexagonalGridSystem",
+    "path":"folders/HexagonalGridSystem.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
